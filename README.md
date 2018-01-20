@@ -17,3 +17,6 @@
 
 <h3>Additionally I just Changed the background picture. I added some of my favaourite fonts etc.</h3>
 <h4>Use it and tell me how it was :D </h4>
+
+### Note
+***This Script (web shell) is intended to be used for educational purposes only, no-one involved in the creation of this script may be held responsible for any illegal acts brought about by this script***
