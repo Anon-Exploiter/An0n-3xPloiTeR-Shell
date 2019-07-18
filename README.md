@@ -1,6 +1,6 @@
 <h1>An0n 3xPloiTeR Shell</h1>
 
-<p>I Did Nothing But I Just Edited The WSO Shell and added some extra features in iT<br>Hope You Like Them All</p>
+<p>I nothing much but just edited the WSO shell and added some extra features in it.<br>Hope You Like 'em.</p>
 
 <ul>
 <li>Login Page</li>
