@@ -1,6 +1,6 @@
 <h1>An0n 3xPloiTeR Shell</h1>
 
-<p>I nothing much but just edited the WSO shell and added some extra features in it.<br>Hope You Like 'em.</p>
+<p>I added nothing much but just edited the WSO shell and added some extra features in it.<br>Hope You Like 'em.</p>
 
 <ul>
 <li>Login Page</li>
@@ -15,7 +15,7 @@
 <li>Logout And Self Remove Options</li>
 </ul>
 
-<h3>Additionally I just Changed the background picture. I added some of my favaourite fonts etc.</h3>
+<h3>Additionally I just Changed the background picture. I added some of my favourite fonts etc.</h3>
 <h4>Use it and tell me how it was :D </h4>
 
 ### Note:
